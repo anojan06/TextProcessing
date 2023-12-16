@@ -17,6 +17,7 @@ Setup & Running the Code
     Dependencies: Libraries such as pandas, numpy, sklearn.
     Running the Scripts:
         Run findBigCompanies.py to extract top companies.
+        Run company_ingredients_statistics.ipynb to see token statistics for the data
         Use tf-idf_and_company_finder.py for TF-IDF analysis.
         Pre-process data with tf-idf_and_dataset_editor.py.
         Explore data interactively in topcompanies.ipynb.
